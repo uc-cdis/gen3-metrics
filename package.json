@@ -1,0 +1,14 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "err": "^2.1.11",
+    "nodemailer": "^6.1.1",
+    "util": "^0.11.1"
+  }
+}
