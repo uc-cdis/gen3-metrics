@@ -1,7 +1,5 @@
 # gen3-metrics
 This is used in aws lambda funtion to download gen3 metrics from s3 and send email 
-# gen3-metrics
-This is used in aws lambda funtion to download gen3 metrics from s3 and send email.
 
 How to Setup lambda
 1. git clone this repo
